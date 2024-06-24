@@ -39,10 +39,13 @@ Before you begin, ensure you have met the following requirements:
 - pip package manager
 
 ### Setup
-1. Clone the repository.
-2. Create and activate a virtual environment.
-3. Install the required packages.
-4. Download the YOLOv3 weights and configuration files by running:
+1. Clone the repository:
+    ```sh
+   git clone https://github.com/shahrul-amin/vehicle-counting.git
+   cd vehicle-counting
+3. Create and activate a virtual environment.
+4. Install the required packages.
+5. Download the YOLOv3 weights and configuration files by running:
    ```bash
    bash download_weights
 
